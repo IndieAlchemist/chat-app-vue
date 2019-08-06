@@ -1,4 +1,4 @@
-# chat-front
+# chat-app
 
 ## Project setup
 ```
@@ -27,3 +27,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# server - run instructions
+
+### Setup
+```
+npm install
+```
+### Run
+```
+node index.js
+```
